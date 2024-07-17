@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T12:04:18.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TIMPRnlrbkCL0KrG97kC" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T12:05:38.739Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x9blq0hYLrIPs3Mvo9a-" version="24.6.5" type="github" pages="2">
   <diagram name="페이지-1" id="LoNdaTXgvZvfFG1R_sto">
     <mxGraphModel dx="840" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,14 @@
         <mxCell id="WQg8-suAgLLCw1eWMUo7-105" value="수강 번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="450" y="580" width="100" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kRCgOFqBfMoLnzR5GsAR" name="페이지-2">
+    <mxGraphModel dx="504" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
